@@ -1,6 +1,8 @@
 Reference:
 Shi, J.-Y., Huang, H, Li J.-X., Lei P., Zhang, Y.-N., Yiu, S-M. Predicting Com-prehensive Drug-Drug Interactions for New Drugs via Triple Matrix Factoriza-tion. In: Rojas I., Ortu?o F. (eds) Bioinformatics and Biomedical Engineering. IWBBIO 2017. Lecture Notes in Computer Science, Springer. vol 10208. 2017. p.108-117
 
+The extension of the reference paper was invited to submit to BMC Bioinformatics.
+
 The variables in the mat file
 
   Name                       Size                 Bytes  Class     Attributes
